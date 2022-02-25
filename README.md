@@ -1,0 +1,3 @@
+# Database
+Database exam, Java and MySql
+Simple application for CRUD operations on database, for demonstration. Football league with datas like, football players, stadiums, matches, results, refferes etc...
