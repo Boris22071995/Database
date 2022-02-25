@@ -1,3 +1,3 @@
 # Database
-Database exam, Java and MySql
+Database exam, Java and MySql done in July 2021.
 Simple application for CRUD operations on database, for demonstration. Football league with datas like, football players, stadiums, matches, results, refferes etc...
